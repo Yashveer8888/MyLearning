@@ -1,0 +1,2 @@
+1710042214450: (/) new req received
+1710042214603: (/favicon.ico) new req received
