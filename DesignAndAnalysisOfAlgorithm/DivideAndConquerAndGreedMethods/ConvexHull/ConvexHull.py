@@ -1,4 +1,6 @@
 '''
+Algorithom
+
 function convexHull(points):
     if len(points) < 3:
         return points
